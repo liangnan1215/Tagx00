@@ -31,10 +31,10 @@ def get_baidu_results(data):
         stringimage=get_file_content(image)
         """ 调用通用物体识别 """
         aipgneral = client.advancedGeneral(image);
-        result = aipgneral['result']
+        apiresult = aipgneral['result']
         urldic['tagConfTuples']=[]
         keyword={}
-        for a in result:
+        for a in apiresult:
            keyword['tag']=a['keyword']
            keyword['confidence']=a['score']
            urldic['tagConfTuples'].append(keyword.copy())
