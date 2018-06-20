@@ -33,8 +33,8 @@ def get_baidu_results(data):
         aipgneral = client.advancedGeneral(image);
         apiresult = aipgneral['result']
         urldic['tagConfTuples']=[]
-        keyword={}
         for a in apiresult:
+           keyword = {}
            keyword['tag']=a['keyword']
            keyword['confidence']=a['score']
            urldic['tagConfTuples'].append(keyword.copy())
