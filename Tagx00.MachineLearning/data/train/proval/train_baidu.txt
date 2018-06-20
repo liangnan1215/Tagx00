@@ -1,0 +1,3 @@
+{'recommendTagItemList':[{'url':'http://tagx00.oos-bj2.ctyunapi.cn/image_image-2_2?AWSAccessKeyId=c4582dec5d0809103126&Expires=9223372036854775&Signature=onaf5Pg7iLi4OobUf9tDUewNyAg%3D','tagConfTuples':[{'tag':'ÎÄ×ÖÍ¼Æ¬','confidence':0.544242},{'tag':'¼ôµ¶Í¼','confidence':0.425489},{'tag':'»á»Õ','confidence':0.277258},{'tag':'·ûºÅ','confidence':0.140391},{'tag':'ÆìÖÄ','confidence':0.006937},]}
+{'url':'http://tagx00.oos-bj2.ctyunapi.cn/image_image-2_2?AWSAccessKeyId=c4582dec5d0809103126&Expires=9223372036854775&Signature=onaf5Pg7iLi4OobUf9tDUewNyAg%3D','tagConfTuples':[{'tag':'ÎÄ×ÖÍ¼Æ¬','confidence':0.544242},{'tag':'¼ôµ¶Í¼','confidence':0.425489},{'tag':'»á»Õ','confidence':0.277258},{'tag':'·ûºÅ','confidence':0.140391},{'tag':'ÆìÖÄ','confidence':0.006937},]}
+]}
